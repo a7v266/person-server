@@ -4,7 +4,7 @@ plugins {
     id 'io.spring.dependency-management' version '1.0.6.RELEASE'
 }
 
-group 'org.magicsoft'
+group 'org.sandbox'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
