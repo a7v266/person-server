@@ -224,4 +224,15 @@ public class Messages {
     public static final String ERROR_CURRENT_ORGANIZATION_EMPTY = "Не задана организация";
     public static final String ERROR_REMOTE_ORGANIZATION_EMPTY = "Не задан регулятор";
     public static final String ERROR_PARSING_FORMAT = "Ошибка парсинга";
+    public static final String DESCRIPTION_CLIENT = "Клиент";
+    public static final String DESCRIPTION_CLIENT_NAME = "Наименование клиента";
+    public static final String DESCRIPTION_CLIENT_TYPE = "Тип клиента";
+    public static final String DESCRIPTION_INN = "Индивидуальный налоговый номер";
+    public static final String DESCRIPTION_KPP = "Код причины постановки на учет";
+
+    public static final String DESCRIPTION_CLIENT_API = "АПИ для работы с клиентами";
+    public static final String DESCRIPTION_GET_CLIENT_LIST = "Получить список клиентов";
+    public static final String DESCRIPTION_GET_CLIENT = "Получить клиента";
+    public static final String DESCRIPTION_CONTRACT_API = "АПИ для работы с контрактами";
+    public static final String DESCRIPTION_CLIENT_TYPE_API = "АПИ для работы с типами клиентов";
 }
